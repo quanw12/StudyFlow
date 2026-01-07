@@ -1,0 +1,21 @@
+# Web Framework
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+# Cài đặt psycopg2-binary nếu bạn dùng PostgreSQL, mặc định dùng SQLite có sẵn trong Python [cite: 22]
+# psycopg2-binary 
+
+# Authentication & Security 
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+
+# Data Processing & Export 
+pandas
+reportlab
+
+# Utilities
+pydantic
+pydantic-settings
